@@ -1,0 +1,508 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Protestant informer, or Information to all Protestants: shewing the causes and end, of this unjust warre, plotted by Romish Jesuites, and now managed by English papists, and their abbettors against this Parliament, and in this all other Parliaments: proving by forepast proceedings, present actions and persons acting that: this warre is no new quarrell, nor caused by the militia but divellish malice, against the true Protestant religion, and lawes of this kingdom, to set up, and establish popery, and hath beene fifteene, or sixteene yeares last past, preparing. Also justifying this Parliaments proceedings, by nature, law, and religion, against the false calumniations of all malignants: with an exhortation, to courage, liberality, patience, and constancy, to the hazard of life, and fortunes: in defence of Gods true worship; your own rights, liberties, and this present Parliament; with confidence of a blessing, and victory, like Caleb, and Ioshua: for your God is with you. Published for information to the ignorant. By Gregory Thims Gentl.</title>
+            <author>Thims, Gregory.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93350</idno>
+            <idno type="STC">Wing S4038A</idno>
+            <idno type="STC">Thomason E91_17</idno>
+            <idno type="STC">ESTC R13261</idno>
+            <idno type="EEBO-CITATION">99859443</idno>
+            <idno type="PROQUEST">99859443</idno>
+            <idno type="VID">111526</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93350)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111526)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E91[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Protestant informer, or Information to all Protestants: shewing the causes and end, of this unjust warre, plotted by Romish Jesuites, and now managed by English papists, and their abbettors against this Parliament, and in this all other Parliaments: proving by forepast proceedings, present actions and persons acting that: this warre is no new quarrell, nor caused by the militia but divellish malice, against the true Protestant religion, and lawes of this kingdom, to set up, and establish popery, and hath beene fifteene, or sixteene yeares last past, preparing. Also justifying this Parliaments proceedings, by nature, law, and religion, against the false calumniations of all malignants: with an exhortation, to courage, liberality, patience, and constancy, to the hazard of life, and fortunes: in defence of Gods true worship; your own rights, liberties, and this present Parliament; with confidence of a blessing, and victory, like Caleb, and Ioshua: for your God is with you. Published for information to the ignorant. By Gregory Thims Gentl.</title>
+                  <author>Thims, Gregory.</author>
+               </titleStmt>
+               <extent>[2], 14, [8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Erroneously attributed to George Smith.</note>
+                  <note>Annotation on Thomason copy: the 3 in the imprint date is crossed out; "1642 March.1.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Causes --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111526:1" rendition="simple:additions"/>
+            <p>The Proteſtant INFORMER, OR Information to all Proteſtants: Shewing the cauſes and end, of this unjuſt warre, Plotted by Romiſh Jeſuites, and now managed by Engliſh Papiſts, and their abbettors againſt this Parliament, and in this all other Parliaments: Proving by forepaſt proceedings, preſent actions and perſons acting that: this warre is no new quarrell, nor cauſed by the Militia But divelliſh malice, againſt the true Proteſtant Religion, and Lawes of this Kingdom, to ſet up, and eſtabliſh Popery, and hath beene fifteene, or ſixteene yeares laſt paſt, preparing. Alſo juſtifying this Par<g ref="char:EOLhyphen"/>liaments proceedings, by Nature, Law, and Religion, againſt the falſe Calumniations of all Malignants: With an exhortation, to courage, liberality, patience, and Con<g ref="char:EOLhyphen"/>ſtancy, to the hazard of life, and fortunes: in defence of Gods true worſhip; your own Rights, Liberties, and this preſent Parliament; with con<g ref="char:EOLhyphen"/>fidence of a bleſſing, and victory, like Caleb, and Ioſhua: For your GOD is with you. Publiſhed for Information to the Ignorant. By <hi>Gregory Thims</hi> Gentl.</p>
+            <q>
+               <bibl>PSAL. 37. 14.</bibl>
+               <p>
+                  <hi>The wicked have drawne out their ſwords, and bent their bow, to caſt downe the poore and needy, and to ſlay ſuch as be of upright converſation.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>JUD. 5. 23.</bibl>
+               <p>
+                  <hi>Curſe yee Meroz</hi> (ſaith the Angell of the Lord) <hi>Curſe yee bitterly, the Inhabitants thereof: becauſe they came not forth to the helpe of the Lord, to the helpe of the Lord againſt the Mighty.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>GAL. 5. 15</bibl>
+               <p>
+                  <hi>But if ye bite and devoure one another, take heed that ye be not conſumed one of another.</hi>
+               </p>
+            </q>
+            <p>London Printed 1643.</p>
+            <pb facs="tcp:111526:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:111526:2"/>
+            <head>The Proteſtant Informer.</head>
+            <p>WEE all complaine of our preſent miſery, by the bloudy diſtractions of the kingdome, by this unna<g ref="char:EOLhyphen"/>turall Warre: But few of us conſider ſeriouſly of the cauſe, whence theſe diſtractions come.</p>
+            <p>For information herein, take notice, that ſinne is the only cauſe of every affliction, and of all puniſhments, whether to pri<g ref="char:EOLhyphen"/>vate men, or whole kingdomes. Wee by our ſinnes have provoked God <note place="margin">Eſay 26. 9. Deut. 6. 15. Deut. 28. 63.</note> to anger, and God ſheweth his anger, by his judgements upon us. King and Subjects have ſinned, and now King and Subjects are puniſhed. God cauſeth us to puniſh one another; He doth it either to reforme us or to deſtroy us.</p>
+            <p>But God is the efficient cauſe of all. The cauſe of all cauſes: all other cauſes are but Gods inſtruments. Now the inſtrumentall cauſe of our di<g ref="char:EOLhyphen"/>ſtractions, is wicked men: God uſeth one ſinner to puniſh another, as <hi>Iſ<g ref="char:EOLhyphen"/>raels</hi> 
+               <note place="margin">2 Chro. 12. 2. Eſay 10. 5. 2 Sam. 12. 11, 12</note> ſinnes was puniſhed by wicked <hi>Shiſhake,</hi> and by Idolatrous <hi>Aſher:</hi> Whom God calleth the rod of his anger, and the ſtaffe in his hand: So God puniſhed <hi>Davids</hi> ſinne, by wicked <hi>Abſolom:</hi> and King <hi>Rehoboams</hi> 
+               <note place="margin">1 King. 14. 16.</note> ſinne, by his rebellious people: and the ſinne of the people by their King <hi>Jeroboam.</hi>
+            </p>
+            <p>Yet bee informed, that though God doe uſe wicked men for his inſtru<g ref="char:EOLhyphen"/>ments, wicked men do wickedly even in the things which God uſeth them, to doe his will for they are naturally the Devils inſtruments, to execute his will, and their owne devilliſh malice: as we ſee in <hi>Iob.</hi> That which God <note place="margin">Iob 1. 15.</note> doth by wicked men is juſt, but that which wicked men doe is unjuſt: for they have no eye to the doing of Gods will, but to their own wicked ends, which is alwayes unjuſt and ſinfull: For example, It was juſt with God, to puniſh <hi>Davids</hi> bloud-guilt neſſe and adultery, by <hi>Abſoloms</hi> rebellion, and defiling of <hi>Davids</hi> concubines: But it was unjuſt and wicked in <hi>Abſolom,</hi> to doe it: It was juſt with God to puniſh <hi>Rehoboam,</hi> by the revolt of his people, but unjuſt in them to caſt him off from being their King.</p>
+            <p>So it is juſt with God, to puniſh us at this day by theſe diſtractions, and
+<pb n="2" facs="tcp:111526:3"/> unnaturall warres: and to ſuffer the King to be miſled by a wicked counſell, to afflict, and ſpoile his people: but it is unjuſt in that counſell: and er<g ref="char:EOLhyphen"/>ror in the <hi>King</hi> to be led by them to doe ſuch things.</p>
+            <p>For their ayme is wicked and devilliſh, and are naturally the Devils in<g ref="char:EOLhyphen"/>ſtruments, to make warre againſt Chriſt: their end is to deſtroy the true proteſtant Religion, to ſubvert our good Lawes, and to eſtabliſh popery: and bring us and our poſterities, our bodies and ſoules, into ſpirituall, and ſlaviſh bondage for ever: and to root out proteſtant Religion from all places in Chriſtendome.</p>
+            <p>This is a certaine truth: and will clearely appeare to any rationall man: That will but take a view of their fore-paſt proceedings: Their preſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt war, and the perſons contriving; and acting it.</p>
+            <p>Firſt, take a view of their fore-paſt proceedings, and conſider, (not to looke ſo farre, as to the Raigne of Queene <hi>Elizabeth,</hi> or <hi>King Iames,</hi> both of bleſſed memory) in whoſe times that Jeſuiticall faction, were active in treaſons; by poyſon, ſtabbing, blowing up <hi>Parliaments,</hi> deſtroying poſt<g ref="char:EOLhyphen"/>rities of Kings, Nobles, and maſſacring whole kingdomes.</p>
+            <p>Onely note their proceedings, in the paſſages of things, ſince the firſt of his Majeſties Raigne: at which time we may remember, the <hi>Duke</hi> of <hi>Buckingham</hi> was the great Favourite: who (by confederacy which Je<g ref="char:EOLhyphen"/>ſuites and Prieſts: Firſt in <hi>Spaine</hi> and after in <hi>France,</hi> when his Majeſtie married with the <hi>French</hi> Kings Siſter) gave great incouragement to the popiſh party in all places, and furthered their deſignes in <hi>England</hi> by un<g ref="char:EOLhyphen"/>controlled power; For through the favour, and authority, the Duke <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from the <hi>King,</hi> hee ruled, and ſwayed, the courſe of thing<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the King<g ref="char:EOLhyphen"/>dome: and it was evident by thoſe times, that the Jeſuites, ſwayed him: And by his greatneſſe, brought many of their owne faction, into the great<g ref="char:EOLhyphen"/>eſt places of command: whom they deſired, hee put in; and whom they diſliked, he put out: that moſt at the Counſell-Table were their ſuch <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not oppoſe them.</p>
+            <p>And to make way for their deſigne upon <hi>England,</hi> they ſet upon the proteſtants in <hi>France,</hi> to weaken them, and to that end His <hi>Majeſties</hi> Shippes were <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent againſt <hi>Rochell:</hi> which deſtroyed their ſhipping and blocked up the paſſage; and when the <hi>Duke</hi> was queſtioned in Parliament, The anſwer was, the Ships were not lent with intention to hurt <hi>Rochell;</hi> but in complement to the King of <hi>France.</hi>
+            </p>
+            <p>Then a Fleet was prepared, the <hi>Duke</hi> himſelfe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould go with it; preten<g ref="char:EOLhyphen"/>ding to relieve <hi>Roc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell:</hi> but when they came to the Iſle of <hi>Ree,</hi> al our brave Souldiers were betrayed to the Sword: <hi>Rochell</hi> robbed of their proviſion,
+<pb n="3" facs="tcp:111526:3"/> and the proteſtants Sold into their enemies hands.</p>
+            <p>What other Voiages were made (to <hi>Cadis</hi> and other places we remem<g ref="char:EOLhyphen"/>ber too) and obſerved then that their end was nothing but to weaken the kingdome, and prepare to the enſuing treaſon, againſt our Religion, and Lawes.</p>
+            <p>Then they began the work of <hi>England,</hi> by crying up Arminianiſme de<g ref="char:EOLhyphen"/>fending thoſe tenents, patronizing their writings, printing, and publiſh<g ref="char:EOLhyphen"/>ing, thoſe dangerous books of <hi>Mountagues;</hi> which (before, King <hi>James</hi> had ſeene: diſallowed, condemned, and forbid to be printed) <hi>Mountague</hi> was made a Biſhop, and Doctor <hi>White</hi> alſo: for defending thoſe bookes at a packt conference. All others were preſently preferred, that favoured thoſe tenents: as <hi>Conzens, Wrene, Corbet, &amp;c.</hi> Thus they ſowed the ſeeds of popery, through the whole kingdom, which ſhewed they expected to have a crop of pure popery.</p>
+            <p>To bring this forward, the power, and profeſſors of proteſtant Religi<g ref="char:EOLhyphen"/>on were diſgraced, and perſecuted, I will only give you a view of ſome particulars; and you may Judge of the whole, as the Geometrician did at the body of <hi>Hercules,</hi> by his foot.</p>
+            <p>We can remember (it is ſo lately) that all our beſt Divines, and honeſt Orthodoxe profeſſors of Religion, of the Laity, were by Authority ſcof<g ref="char:EOLhyphen"/>fed at, and perſecuted in the High Commiſſion, and all other Courts of that nature; if it were but for going from a dumb arminian Reader, out of his owne pariſh, to heare an Orthodoxe Preacher: All laborious, Orthodox Preachers were pecked at: and by ſome foule mouthes almoſt devoured: I am ſure very many ſuffered under the little <hi>Wren:</hi> for he peckt up all thoſe pretious plants out of his Dioceſſe.</p>
+            <p>Then Lectures were put downe in all places, and afternoone-Sermons forbidden on the Lords day. Books were alſo publiſhed and commanded to be read in all Churches, giving liberty to prophane that Holy day, con<g ref="char:EOLhyphen"/>trary to the expreſſe command of God; and againſt the enacted law of the kingdome: all Miniſters that refuſed to read theſe books were ſuſpen<g ref="char:EOLhyphen"/>ded: thus good men were weeded out in all countries, and all to diſplant religion, and plant popery.</p>
+            <p>The Arminian Prieſts and Court-Chaplains, cryed out againſt the San<g ref="char:EOLhyphen"/>ctifying of the Lords day: called Sunday, no Sabbath, and denied the mo<g ref="char:EOLhyphen"/>rality of the fourth commandement, &amp;c.</p>
+            <p>And theſe men would not be called Preachers, nor Miniſters (names that Saint <hi>Paul</hi> gloried in) but called themſelves Prieſts; the holy Table might no longer be called table, but Altar: and the ſtanding of it was (al<g ref="char:EOLhyphen"/>tered,
+<pb n="4" facs="tcp:111526:4"/> and it made a reall Altar aſcended to by ſteps, with bowing, crin<g ref="char:EOLhyphen"/>ging, and reverence to it; Crucifixes ſet up, Baſons and Tapers, were ſet upon it: nothing was wanting of Popery, but the name popery and the Idol Sacrifice of the Maſſe.</p>
+            <p>Nor was that Idoll altogether wanting; for it was daily in Summerſet-houſe, Saint Iames-houſe, and divers other places; common to all that would go to it: nor durſt any man queſtion thoſe that went, though they were ſeen to go every day.</p>
+            <p>Prieſte frequented Papiſts houſes in all counties, and no man might queſtion them, if any by lawfull authority did apprehend a Prieſt, they were checked for it, and the Prieſt diſcharged, by ſpeciall command from the Queene, or under ſome Privie Counſellors hands.</p>
+            <p>Court Chaplains and Biſhops preached juſtification by works, free will, ſeven Sacraments, and conſubſtantiation: (a faire way to tranſubſtantiati<g ref="char:EOLhyphen"/>on) with a number of other popiſh doctrines: and maintained, that there might eaſily be a conjunction between the Papiſts and us: ſo it is plaine that we muſt have gone wholly to them: for they profeſſe they will not come one jot to us.</p>
+            <p>The preſſes were allowed to Arminians, and the popiſh faction, to print any popiſh tenents: but forbid to the good Proteſtants, none might preach againſt their poſitions, much leſſe print any thing for confutation of their errors or hereſies, upon paine of impriſonment, fining ſuſpenſi<g ref="char:EOLhyphen"/>on pilloring, cutting off eares, ſlitting noſes, baniſhment, &amp;c more cru<g ref="char:EOLhyphen"/>elty, that hath beene inflicted upon any Proteſtant, among the Turks: when theſe and more have been queſtioned in Parliament, our Parliaments were broken, the evils increaſed.</p>
+            <p>Yea, Parliament men were diſgraced and impriſoned; and becauſe Parliaments would not give the kingdome money, without redreſſe of theſe and other evils: they deviſed wayes to reſt by force, great ſummes of money out of the ſubjects purſe, by illegall and unſufferable taxati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>Firſt by loane, and the refuſers were impriſoned, or put to intollera<g ref="char:EOLhyphen"/>ble charges by continuall attendance at the Councell-Table: and many eminent Gentlemen died, without mercy in the priſons: others p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſent into remote Counties. Then Souldiers were billeted in all Coun<g ref="char:EOLhyphen"/>ties, and many Horſes, which their riders were ſent for from beyond th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Seas, to awe and ſubdue the kingdome, and by ſtrong hand to wreſt from us our religion, and lawes: but divine providence, (by Feltons hand) cut off the actor of that deſigne at that time.</p>
+            <pb n="5" facs="tcp:111526:4"/>
+            <p>Here obſerve and cleerely ſee, that this warre is no new or ſudden thing: nor occaſioned by the Militia, as they now pretend: but the ſame in effect that was intended, fifteen or ſixteen yeers agoe: after this an<g ref="char:EOLhyphen"/>other Parliament was called, voices were forced, and illegall meanes uſed; but when this would not ſerve to their purpoſe, that Parliament as others was diſſolved</p>
+            <p>Then came other taxes for non-knight-hood; who and what perſons <note place="margin">See the first Remonſtrance of bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h the Houſes.</note> was brought within this taxation we all know, and the multitudes that were impriſoned, and made to attend the Counſell-Table, we cannot for<g ref="char:EOLhyphen"/>get.</p>
+            <p>After that came ſhipmoney, a boundleſſe and endleſſe tax; alſo taxes for compoſitions for Cottages, for Forreſt-lands, Timber, Woods, &amp;c. Mighty exactions upon cuſtomes, and Monopolies almoſt of all things of <note place="margin">If this Parlia<g ref="char:EOLhyphen"/>ment had not taken away thoſe Monopolies and taxe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the king<g ref="char:EOLhyphen"/>dome had ſuffe<g ref="char:EOLhyphen"/>red as much by this time in their eſtates, as they have by this wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, (except the ſpoile by plundering) which is not the Parliaments fault.</note> neceſſary uſe: thereby inhaunſing the prizes, to the prejudice or the whole kingdome, yea, to the utter ruine of divers Trades and Corporati<g ref="char:EOLhyphen"/>ons: So that multitudes of Maſters and Prentiſes cried out of the burthens which is now forgotten by them: and no thankfulneſſe is returned by them, either to God, or the Parliament: Other cruell taxes were impo<g ref="char:EOLhyphen"/>ſed upon buildings, together with many other oppreſſions, all againſt law, and yet law could not helpe us; all Courts of law and our Courts of juſtice were corrupted; Iudges and great Officers bought places deer, and ſold their ſervice in them deerer, to make themſelves gainers. Be<g ref="char:EOLhyphen"/>ſides many Iudges were diſplaced for doing Iuſtice; or for refuſing to judge unjuſtly: the whole kingdome was oppreſſed, all were wronged, and all left without remedy: Gunpowder, and other ammuniti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n was ta<g ref="char:EOLhyphen"/>ken from us, and we left deſtitute of neceſſary defence, Popery broke in upon us, Parliaments were neglected, Prerogative was ſet up; and they began to promiſe themſelves a ſpeedy accompliſhment of all their de<g ref="char:EOLhyphen"/>ſignes: onely they had ſome feare that Sco<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>land might be ſome obſtacle in their way (as indeed it prove) God infatuating their counſels, to thruſt upon the Scots their new Liturgy and Popiſh Canons, before they had fully finiſhed the worke in England: (though under a faire pretence of a glorious uniformity which our brethren of Scotland did not ſo well fancy as we: nor did they give <hi>Land</hi> any great praiſe for the preſent; but re<g ref="char:EOLhyphen"/>fuſed it: though it was manifeſt that it was no worſe, then was contrived <note place="margin">A great provi<g ref="char:EOLhyphen"/>dence of God.</note> at Rome, and from thence ſent into England.</p>
+            <p>Then the little (great) Biſhop (like a Pope) ſent his commands by his Legats, and Commiſſioners, that they ſhould receive that Liturgy, but not obeyed: the honeſt Scots were proclaimed rebels and traitors, and
+<pb n="6" facs="tcp:111526:5"/> and an army raiſed to compell them: his Majeſty was incenſed and per<g ref="char:EOLhyphen"/>ſwaded (with his army) to advance to Barwick: but by Gods providence there was a pacification, and his Majeſtie returned home in pe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e. Though quickly after he returned to that wicked Counſell of Biſhops and popiſh affected: (all promiſes bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in oblivion) was perſwaded <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o raiſe another Army: New Proclamations and Declatations were printed, full of b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tterneſſe againſt the Scots: and a Parliament called to raiſe monies for that warre; the Parliament refuſing, was preſently diſſolved: But the warre notwithſtanding went forward: then the Scots (as we all know) entred Newcaſtle, ſtanding upon their juſt defence.</p>
+            <p>Then this Parliament was called to debate of the war; which through Gods goodneſſe they againe pacified, to the great content of both king<g ref="char:EOLhyphen"/>domes; onely Biſhops, Papiſts, and popiſh affected, ſtormed at the peace: eſpecially, that his Majeſtie had graciouſly ſigned the Bill (be<g ref="char:EOLhyphen"/>cauſe of the many great affairs in hand) that this Parliament ſhould not be broken without the conſent of both Houſes, and preſently they plot<g ref="char:EOLhyphen"/>ted how to breake it. Firſt, they endeavoured to bring the Kings army from York againſt it, the Earle of <hi>Strafford</hi> having in readineſſe 8000 Souldiers in Ireland, to be brought hither to aſſiſt that worke: and to ſubdue the kingdome, as was before intended, by the Duke of <hi>Bucking<g ref="char:EOLhyphen"/>ham:</hi> but this plot being (by Gods mercy) diſcovered, Lictors axe tooke off this actor, as <hi>Feltons</hi> knife the other: then they laboured to hinder the proceedings in Parliament by their votes, (as we are informed by the Parliaments firſt Remonſtrance) when votes could no longer hinder, they bread diviſion in both houſes: and then betweene the King, and both Houſes, cauſed his Majeſtie to accuſe ſome of both Houſes of treaſon: but could never ſhew what the treaſon was, though deſired by both Houſes.</p>
+            <p>But indeed they thought to have put all in a preſent uproare, and ſo to have broke the Parliament: Having during the time they were with the King in Scotland, (as they hoped) made a party there: and by the <note place="margin">
+                  <hi>Honour blinds the eyes, and corrupts juſtice, as</hi> Solomon <hi>ſpeaks of gifts.</hi>
+               </note> honours which they had perſwaded the King to beſtow upon ſome of the Citizens, they thought they had blinded the City too: and then having actually raiſed that bloody rebellion in Ireland: intending the ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e in England: they prevailed with his Majeſty, to come in hoſtile manner againſt his Parliament, to take from thence by force thoſe members, be<g ref="char:EOLhyphen"/>fore accuſed: having in a ſcrowle divers others, they likewiſe intended to accuſe; ſo to have broken the Parliament or forced it to their own ends which Gods Providen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and the Parliaments wiſdome prevented.</p>
+            <pb n="7" facs="tcp:111526:5"/>
+            <p>Then preſently, they endeauored, to make themſelues maſters, and poſſeſ<g ref="char:EOLhyphen"/>ſors, of all the armes, and ſtrong holds, of the kingdome; firſt they bought out Sir <hi>William Belford</hi> out of his place in the tower: whom they knew to be vncorrupted and no inſtrument for their treaſon: and put Collonel <hi>Lunſ<g ref="char:EOLhyphen"/>ford</hi> in his place, after him Sir <hi>Iohn Byrone</hi> &amp; Captain Leg to be gouernor of Hull; then the Earle of New caſtle; Alluery fit men to betray a King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>Theſe paſſages declare euidently their intention was to make warr againſt the Parliament, and Subiects: and hence it was that the Parliament deſires to ſetle the militia of the Kingdom in ſafe hands; and for this cauſe moſt Countyes petitioned to haue it ſoe: Soe that the Militia was not the cauſe of their warr: but their preparation cauſed the militia.</p>
+            <p>They alſo made mutinies and tumults againſt the Citizens: Firſt Lunſ<g ref="char:EOLhyphen"/>ford began in weſtminſterhall; then others of that faction in weſtminſter: and after at white hal gate, and the ſtrand: cutting and ſlaſhing, vnarmed and harmeleſſe citizens: and then they perſwade, the King from London, pre<g ref="char:EOLhyphen"/>tending danger to his maieſties perſon by tumults when indeed there was no tumult, but what themſelues cauſed. But it is a paradox: if his maieſtie <note place="margin">The letter that came from L. D. to the King makes it c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eare, wiſhing the king to be take him to a ſtrong hold.</note> left London becauſe of tumults: that they ſhould endeauor (as they haue done) to make mutinyes and tumults in the city, to bring him thither againe: But it is manifeſt, that his maieſty was not (indeed) afraid of any hurt by the city; for then he would not hau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gone through the city (with onely one coach, and a leſſe attendance then ordinary) to guild-hall: a lit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e before his goeing from London: and it is clear there was no cauſe of feare, becauſe his Maieſty had no affront: but Supplications and prayers from the people:</p>
+            <p>But wee now See they had an other end in perſwading his Maieſtie <note place="margin">The anſwer to the London Pe<g ref="char:EOLhyphen"/>tition in part promiſeth ſo much.</note> away: as well as in ſending the Queene beyond the ſea, as alſoe, the Lord <hi>Digby</hi> and others, to trafficke for men, and armes, to aſſiſt their bloudy deſignes: then they might not be ſuffered to gather an army at Kingſton, windſor &amp;c.</p>
+            <p>Then they perſwade the King to York: where they alſo pretend danger (yet there was no tumults but what they made in abuſe to good prote<g ref="char:EOLhyphen"/>ſtants) and prouide a guard of armed men and trayned bands: which as we haue Seene) quickly grew to an army of offence, firſt to Hull, and ſince to the whole Kingdome; and thus you ſee what their preparation<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were.</p>
+            <p>Now let vs conſider and ſee what their war is: They could vs they would
+<pb n="8" facs="tcp:111526:6"/> make no warr againſt the Parliament: But they told vs of the Kings rights and prerogatiues which they would maintaine: and defend the proteſtant religion, the priuiledges of parliament and the rights and libertyes of the Subiect againſt innovations, and arbitrary government.</p>
+            <p>But if that were the cauſe of their warr, they would not fight againſt the parliament; for all theſe the Parliament would have to be eſtabliſhed for ever: firſt for his maieſties juſt rights and prerogatiue, they offer to con<g ref="char:EOLhyphen"/>firme to him and his poſterity: yea more, to make him the happieſt of all his progenitors.</p>
+            <p>And for the eſtabliſhing the proteſtant religion, together with the con<g ref="char:EOLhyphen"/>tinuance of the juſt, and ancient priuiledges of Parliament; and the knowne rights of the Subiect; it is all that the Parliament deſtre of the King: that which they from the beginning (and ſtill) doe humbly Suplicate his maje<g ref="char:EOLhyphen"/>ſtie for, againſt all innovations and arbitrary government: therefore that can be no cauſe of their warr.</p>
+            <p>Beſides, I thinke, no man needs information to aſſure him, that the cauſe why Popery is broken ſo farr in vpon vs: and foe much innovation, and arbitrary government as of late years, hath bin want of Parliaments, and would with greater violence break in, if this Parliament were not.</p>
+            <p>Nor was it ever knowne, that any free elected Parliament, of 500, or, 600 Lords, and gentlemen, of Severall countyes, and familyes, were the cauſe of any innovation or arbitrary government: nor is it likely can be. But contrary have ever beene and at this day are the ſecuritie of this kingdome againſt both: And therefore it is that this warr is made againſt this Parliament, to deſtroy it, and with it all other and to bring in an arbitrary government &amp;c. It is true particular men, and private counſells may be corupted, to pleaſe Kings (in hope of preſent honors, and great eſtates) to betray a kingdome; as private counſels at this day. And particular men, lately fied from this parlia<g ref="char:EOLhyphen"/>ment, to a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chiev their privat ends: care not to deſtroy the priviledges of par<g ref="char:EOLhyphen"/>liament: or to take away all Parliaments (or which is worſe) by the ſame ar<g ref="char:EOLhyphen"/>my they break this, to force a pact Parliament of their owne choyſe: and ſoc make vs ſlaues by act of Parliament; let up popery, by the authority that threw it downe: and kill us with our owne weapons. This is cle<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e as the light, yet men will not ſee it; but are willingly held in the f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ols paradiſe, and ſuffer themſelvs to be deluded, by proclamations, declara<g ref="char:EOLhyphen"/>tions, and proteſtations, which are but the ſnares of the wicked, to catch ſimple men: al which though they have paſſed under the kings nams, I hope his maieſtic neuer ſaw nor heard of. Becauſe they have beene all falſified:
+<pb n="9" facs="tcp:111526:6"/> and their actions quite contrary to their promiſes, and proteſtation<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: like <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> who ſet their faces eaſtward, when hey meane to now weſtward.</p>
+            <p>Therfore it will be the wiſdom of every man, to make his eyes judge in this cauſe rather <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen his ears: actions beſt ſhew the intentions: every tree <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s knowne by his fruite.</p>
+            <p>At the entrance of Queene Mary to the Crowne, great proteſtations was made to maintain the proteſtant religion: but wee ſee her actions, were deſtructive to it.</p>
+            <p>The like proteſtutions we have heard concerning Ireland: and great calling on the Parl. for aſſiſtance for that kingdome, but as often as preparations were made, all aſſiſtance, and helpe was hindred, and the rebels were from hence ſtrengthened.</p>
+            <p>Wee have heard ſeverall proclamations, to put lawes in execution againſt Papiſts: but wee ſee that the Parl. themſelves were reſtrayned, and might not execute the knowne Laws vpon them: though they by humble petiti<g ref="char:EOLhyphen"/>ons ſought it and now wee ſee them in beſt eſteeme and moſt truſted.</p>
+            <p>Wee have heard great promiſes, that there was no intention to make warr againſt the Parliament, and ſeen it teſtified vnder many Lords hands (now in the Kings army) onely a guard deſired for the Kings Perſon, but wee ſee a miſerable and bloudy warr, to deſtroy the Parliament.</p>
+            <p>We heard great proteſtations, that no papiſt ſhould bee admitted into the Army, but we may ſee papiſts ſwarme in that Army (yea in the kings Court) like waſps, about a hony pot: and in the north under the command of the Earle of <hi>Newcastle,</hi> you may ſee eight thouſand profeſſed papiſts of one cluſter.</p>
+            <p>We have heard heaven and earth called to witnes, that their war was to defend Proteſtant Religion: but it were ſtrange to ſee ſo many papiſts fight for it; but if it were ſo, why do they ſet up publike maſſe in <hi>Yorke</hi> and other places where that Army is? and impriſon Proteſtant Miniſters, and a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l o<g ref="char:EOLhyphen"/>ther that doc but ſay they fight for the Proteſtant religion? We have heard proteſtations that priviledges of Parliament ſhould be maintained, and the liberty of the Subject, but if a Parliament may be broken by force, how can priviledges and liberties be preſerved?</p>
+            <p>You will <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay we have triennial Parliaments, I anſwer that is nothing, for the king is no more bound to be preſent at any triennial Parliament, to con<g ref="char:EOLhyphen"/>firme any act (if it bee called) then at this: beſides the King is no more <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to call any trienniall Parliament, then he is bound to preſerve this.</p>
+            <p>We haue heard Proclamations prohibiting plundering by the Kings Ar<g ref="char:EOLhyphen"/>my,
+<pb n="10" facs="tcp:111526:7"/> and moleſting his good ſubjects, but wee ſee the doe plunder dayly in all places, except where they cannot overcome, or where nothing is to bee had.</p>
+            <p>We have heard of an acceptation of an accommodation, and ſeen it pub<g ref="char:EOLhyphen"/>liſhed by their owne faction, but we ſee them the next day come furiouſly and treacherouſly upon part of the Parliaments Army at <hi>Brai<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ford;</hi> and barbarouſly ſlue many men, more righteous then themſelves, an act <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> themſelves.</p>
+            <p>We have heard of a gratious acceptance of the City petition, and a rea<g ref="char:EOLhyphen"/>dineſſe to imbrace propoſitions of peace, but we have ſeen ſome of the pe<g ref="char:EOLhyphen"/>titioners excepted againſt, and accuſed of treaſon. He that hath but <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> an eye, may ſee their aime when they flatter, and animate the rudeſt of men, to rebell againſt authority, and overthrow the governement of the great City to make way to overthrow the lawes of the whole kingdome: <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l<g ref="char:EOLhyphen"/>full fiſhers will fiſh in troubled waters, and bankrupt Cavaleers can make beſt pillage in a divided City, and this is their aim: without difference to friend or foe, the pillage of one is as ſweet as the other: propoſitions of peace have been ſent as we deſired, and they expected, with an humble petition of both houſes to the King to remove the cauſe of the war, and accept of their propoſitions: what effect it hath wrought let the world iudge, and the Parliament conſider to whom the anſwer is directed.</p>
+            <p>Yet thus much we may obſerve in it (which ſhewes no forwardneſſe to peace) that no authority is aſcribed (or allowed) to the Parliament, ſave on<g ref="char:EOLhyphen"/>ly the name, (both houſes) and wee may feare ſome deſigne againſt them and us, if there be a ceſſation of armes without diſpanding the armies.</p>
+            <p>But the people of this kingdome ever have, and I hope ever will account Parliaments the fitteſt and beſt expounders of Law, and Iudges of offen<g ref="char:EOLhyphen"/>ders either to acquit or condemne them; they never wreſt the Lawes for private ends, as other expounders (or rather forgetters) of Law have lately done: when the Subject (had leſſe uſe of the Law, and leſſe liberty) were impriſoned contrary to Law, beyond the knowne power and rights of any Kings of <hi>England,</hi> their <hi>habeas corpuſſes</hi> and all baile denied them.</p>
+            <p>Nor knew we by what Law to proceed againſt any papiſt, though the Lawes were knowne to us.</p>
+            <p>And by the diſcipline of our Church governement, we could not well diſtinguiſh between proteſtant religion and popery; the booke of com<g ref="char:EOLhyphen"/>mon prayer (though no idol was idolized) which hath in it good and ho<g ref="char:EOLhyphen"/>ly things, may be, and was abuſed contrary to the inſtitution and meaning
+<pb n="11" facs="tcp:111526:7"/> of the Parliament, firſt inſtituting it. Things ceremoniall were urged as ſubſtantiall, what the arch-biſhop and his Romiſh penſioners pleaſed, and ye bee no innovator, but for the Parliament to deſire any dimination (though of things offenſive) is innovation: whatſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver makes for popery, may be added, but nothing popiſh taken away.</p>
+            <p>For my p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt, I protes before God, the ſearcher of al hearts, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat I am no Sectary, (ſo called) but a true pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>teſtant, according to that eſtabliſhed doctrine or Queene <hi>Elizabeth,</hi> and <hi>King I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> of bleſſed memory I diſal<g ref="char:EOLhyphen"/>low the opinion of the Browniſts, as I condemne the opinion, doctrine, and <note place="margin">It is a great diſ<g ref="char:EOLhyphen"/>quiet and trou<g ref="char:EOLhyphen"/>ble to a ſtate when men will go b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fore the law, and not follow the law in obedi<g ref="char:EOLhyphen"/>ence.</note> practice of Papiſts, or Anabaptiſts, and never contemned or (willfully) neg<g ref="char:EOLhyphen"/>lected he common-prayer in any aſſembly. Yet I am con<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dent (and I th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nk upon good ground) that the common-prayer hath ſome nee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leſſe things in it, and ſome offenſive, (as they may bee in the worſt ſence interpre<g ref="char:EOLhyphen"/>ted, thus much for information of the preſent war.</p>
+            <p>Laſtly conſider who, and what perſons, are the contrivers, and actors in this war: which are all of one of theſe ſix kindes,</p>
+            <list>
+               <item>Firſt, Jeſuits, and profeſſed Bapiſts.</item>
+               <item>Secondly, Biſhops, and corrupt Clergy.</item>
+               <item>Thirdly, Lords, and Gentlemen, popiſhly affected.</item>
+               <item>Fourthly, Delinquents, and Pattentees.</item>
+               <item>Fiftly, men of broken fortunes.</item>
+               <item>Sixtly, Athieſts, and extreme deboyſt men.</item>
+            </list>
+            <p>And theſe al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> agree in one finall e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> (viz.) to betray Proteſtant religion, Luies, and the juſt Luierty of the ſubject.</p>
+            <p>But the three laſt ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rts, named, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave each a particular end to themſelves.</p>
+            <p>The Delinquents aime, is, their ow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e preſent preſervation, to reſcue their perſons and eſtates from the iuſtice of the Law, preferring themſel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es be<g ref="char:EOLhyphen"/>fore Religion Law, or Poſterity.</p>
+            <p>Thoſe of broken fortunes, aime at pillage, to make themſelves great e<g ref="char:EOLhyphen"/>ſtates, out of the ruines of the Kingdome, which they cannot doe if law bee not deſtroied.</p>
+            <p>The deboyſt Athieſts, ſeeke to enjoy their licent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous liberty, which they prefer before Law, or Religion. They hate the very name of reformation in others, yet theſe are the men, that tell us they fight for the Proteſtant re<g ref="char:EOLhyphen"/>ligion, priviledges of Parliament, and the Subiects liberty. But we muſt be<g ref="char:EOLhyphen"/>lieve that they have learned that damnable art of equivocation, or mentall reſervation of the Ieſuits.</p>
+            <p>That when they p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oteſt to fight for the Proteſtant religion, priviledges
+<pb n="12" facs="tcp:111526:8"/> of Parliament, and the Subiects liberty, their meaning is, that they fight for all theſe, as ours: to take them from us as they doe our eſtates, or as a chiefe fights for a true mans purſe, and this is theſe mens warre.</p>
+            <p>Now if we examine why the Parliament and Kingdome have raiſed an army, and conſider their forepaſt proceedings, their preſent actions, and the perſons engaged in their war: we ſhall plainly ſee that they aime at no<g ref="char:EOLhyphen"/>thing but Gods glory, the ſafety of the Kings perſon and poſterity, the de<g ref="char:EOLunhyphen"/>fence of the true Proteſtant religion, Parl. priviledges, and the iuſt Li<g ref="char:EOLhyphen"/>berty of the Subiect: againſt thoſe that (ſay they fight for them) and would take them from us: all which, are at once aſſaulted by the ſeverall armies of the Cavaleers.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> In their proceedings in this Parliament, conſider the declined, and adul<g ref="char:EOLhyphen"/>terated condition of things, in Church and State, as they found them when the Parliament began. And then take notice of their care and wiſedomes, to make pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce betweene the two nations, <hi>England</hi> and <hi>Scotland,</hi> His Maie<g ref="char:EOLhyphen"/>ſty being then (by a malignant counſel) engaged in a warre againſt h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s good Subiects of <hi>Scotland,</hi> which that counſell could not manage for him, not his Maieſty deſert with honour, they vindicated his Maieſtie, ſtayed blood<g ref="char:EOLhyphen"/>ſhed, reconciled the nations, ſatisfied the wronged Scots, payed the Kings armie, diſburſed great ſums out of their owne purſes, and engaged them<g ref="char:EOLhyphen"/>ſelves for much more.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Conſider their pious care, for the ſetling good order and government in the Church, preſenting their moſt humble deſires to the King, that lear<g ref="char:EOLhyphen"/>ned and godly divines might conſider of it, and his Maieſtie paſſe a bill to that purpoſe, declaring their purpoſe was not to deſtroy our Liturgy, onely take away unneceſſary Ceremonies, but were denied.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Their diligence to ſuppreſſe, and take away our many oppreſſions, and free us from the vexations of them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Their Iuſtice and good endeavour to put the lawes in execution againſt Ieſuits, Prieſts, and Papiſts, addreſſing themſelvs in all humility to his Maje<g ref="char:EOLhyphen"/>ſtie for the ſame, but could not prevaile.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Their induſtry in providing ſeverall Bills for the good of the Subject, be<g ref="char:EOLhyphen"/>ſides thoſe his Maieſty was graciouſly pleaſed to ſign, (as they made known to us by their firſt Remonſtrance.)</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Their thankfull gratitude in readineſſe to raiſe monies for his Maieſties preſent occaſions, and future ſtore, promiſing to make him the richeſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing in Chriſtendome.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> Their unwe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ried pairs for almoſt two years and an half, in ſpending their
+<pb n="13" facs="tcp:111526:8"/> time, ſtrength and eſtates, neglecting whatſoever was their owne for the common good.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> Their carefull proviſion for the ſafety of the Kingdome againſt Papiſts, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd popiſh affected, by putting the Militia of the Kingdome into truſty hands, when they ſaw eminent danger, which hath hitherto preſerved us, and diſappointed them, which till they ſaw eminent danger they medled not with, nor deſired a guard for their owne ſafety in ſitting, but his Maje<g ref="char:EOLhyphen"/>ſtie then promiſed they ſhould need no guard, but ſhould be as ſafe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s his Queene or children, yet within very few dayes after, he came in perſon, with about foure hundred deſperate Cavaleers armed with ſwords, pi<g ref="char:EOLhyphen"/>ſtols, &amp;c. againſt ſome of them: therefore no marvell if the Parliament doubt to truſt the King with all our rights, religion, lawes, and lib<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rties; Kings are not Gods but men, and ſubject to mens infirmities: yet I ſay not, the King is not to be truſted, (God forbid) I am bound to judge the beſt, and believe when his Majeſty promiſed ſafety to his Parliament, hee inten<g ref="char:EOLhyphen"/>ded it, and was thruſt upon that breach in ſome violent paſſion, cauſed by that wicked counſell on purpoſe.</p>
+            <p>You will ſay the King hath acknowledged that fault, and i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is no more to be thought on. Anſwer, acknowledgement is nothing without repaire, <note place="margin">1 <hi>Sam.</hi> 24. 16. 17 1 <hi>Sam.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6. <hi>read the l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ves of King Iohn. Hen.</hi> 3 <hi>Ed.</hi> 2. <hi>R<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h.</hi> 2. <hi>and con<g ref="char:EOLhyphen"/>ſid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r.</hi>
+               </note> but no repaire is made. <hi>Saul</hi> confeſſed his fault in ſeeking <hi>Davids</hi> life, and confeſſed it with teares, ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Saul</hi> by the wicked counſell of the <hi>Ziphites</hi> ſought it againe. And whileſt his Maieſty ſtill retaines ſuch counſellors, hee may ſtill forget his promiſes. That which hath been may be againe.</p>
+            <p>Who is that man, for his owne particular, that would bee willing at the Kings requeſt, to cancell all his evidence for his lands and inheritance, and reſt onely upon a bare word, to poſterities? much leſſe a Parl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ament to truſt all the righ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and inheritance of a kingdome, upon the bare word of a King, when guided by a malignant counſell, who ſeeke the kingdomes ruine.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> Conſider alſo their tender care of <hi>Ireland,</hi> to ſuppreſſe that bloody rebel<g ref="char:EOLhyphen"/>lion ſo ſoone as it was diſcovered, earneſtly ſupplicating his Mai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſty to ioyne with them, by paſſing a bill for a ſpeedy and ſufficient expedition thi<g ref="char:EOLhyphen"/>ther, which was graciouſly promiſed, why not performed, let the world iudge.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> Their many meſſages and petitions to the King, ſent from place to place, till (at <hi>York)</hi> their meſſengers were beaten, Parliament men threat<g ref="char:EOLhyphen"/>ned, their houſes beſieged, plundered, their friends abuſed and pillaged, be<g ref="char:EOLhyphen"/>fore the Parliament had any Army on foote, and after they had an army
+<pb n="14" facs="tcp:111526:9"/> they never ſtruck, before they were ſtrucken: ſuch was their backwardneſſe to warre, elſe they might eaſily have fetcht all that maſignant counſell from <hi>Yorke,</hi> and prevented all the miſchiefe they have ſince made and done in the Kingdome; which if the Parliament had foreſeene, and prevented, men would not have believed what now they ſee, but would have blamed the Parliaments forwardneſſe more then now.</p>
+            <p>That the Parliament have no end to themſelv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in this warre but onely Gods glory, and the publike good, is manifeſt in their contempt of diſho<g ref="char:EOLhyphen"/>nourable honours, and corrupt dignities: doe but conſider what ſome of them have loſt, and what other of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m might have, if they were or would be corrupted. Some have loſt the favour of their King, and the higheſt pla<g ref="char:EOLhyphen"/>ces of honour and profit, others might receive what favours honours, and dignity a King can give: if they would betray Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s truth, and the king<g ref="char:EOLhyphen"/>domes truſt: yea, thoſe very men that are for this cauſe hated, d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhonou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, and proclaimed traitors, and Rebels, ſhould not bee denied what outward honours a King could beſtow upon them.</p>
+            <p>And ſhall wee not honour ſuch Champions for Chriſt, and ſuch Patri<g ref="char:EOLhyphen"/>arches of their countrey, and defend them while they defend us to the ha<g ref="char:EOLhyphen"/>zard of our lives, and beſt fortunes with them, who willingly ſacrifice themſelves to honourable deaths, rather then to preſerve their lives by any di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>honourable act, to prodite their truſt repoſed by God and men, counting it as the Poet ſaid,</p>
+            <q>To be a ſweet and noble gaine, in Countries quarrell to be ſlaine.</q>
+            <p>To all the former, add this, that (after their offers, petitions, and propo<g ref="char:EOLhyphen"/>ſitions, formerly for peace, were all reiected) they, at the requeſt and hum<g ref="char:EOLhyphen"/>ble petitions of many of Vs, in the City of London, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther counties; will<g ref="char:EOLhyphen"/>ingly offered again, new propoſitions, more low then the former: accom<g ref="char:EOLhyphen"/>panied with the humble petition of both houſes to be accepted, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> manifeſt teſtimony of their deſires of Peace and vnwillingneſſe to warr, if neceſſity conſtrained, not.</p>
+            <p>In the ſecond place, conſider their preſent actions, in the managing of this their defenſive war, hauing no other choyſe but two extreams either to Fight or loſe all, all being challenged, and at once aſſaulted, by men <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing armyes.</p>
+            <p>Now we know that nature, hath taught all creatures to defend their <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but nature, Law, and religion teach; and allow men to defend themſelves from vniuſt violence, the law of the kingdom allow a man to kill rather then be killed, and religion reſtrained not that kingly prophet <hi>David,</hi> to take armes in defence of his life againſt <hi>Saul</hi> his King, if <hi>David</hi> might de<g ref="char:EOLhyphen"/>fend himſelf againſt <hi>Saul,</hi> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n much more againſt <hi>Sauls</hi> evill counſellours.</p>
+            <pb facs="tcp:111526:9"/>
+            <p>But it is objected, That <hi>David</hi> would not lay his hand upon <hi>Saul</hi> (the Lords annointed,) when he had twice opportunity put into his hands. <hi>Anſwer.</hi> It is true, <hi>David</hi> would not, nor might not, kill <hi>Saul,</hi> in a treacherous manner; But if <hi>Saul</hi> would wilfully thruſt himſelf in<g ref="char:EOLhyphen"/>to battle againſt innocent <hi>David,</hi> and periſh, <hi>David</hi> ſhould have been guiltleſſe, as appeareth, 1 <hi>Sam.</hi> 26. 9, 10. <hi>David</hi> took Arms in his own defence; The Parliament and Kingdom in defence of their Religion, and Hereditary rights; and not onely ſo, But to defend the Kings Per<g ref="char:EOLhyphen"/>ſon, and to reſcue Him from the hands of curſed Dam-my, Ram-my Cavaliers: Therefore ſcandalous are thoſe mouthes; that report, the Parliament takes Arms againſt the King.</p>
+            <p>We have made choice of the men, and have truſted them with all our Rights; The King hath accepted of them, and acknowledged them His great Counſell; And they according to their truſt, defend our Rights, and His Perſon, and Poſterity.</p>
+            <p>They freely venture their lives, and eſtates for us, and for our King, againſt wicked Councellors, who ſeek His Majeſties ruine, as well as ours; Therefore we are bound by conſcience, Law, and Religion to defend them: Should we neglect them, becauſe they do His Majeſty, and us right; or ſhall we diſſert them, becauſe they will not betray us: Though <hi>Saul</hi> had ſworn that <hi>Jonathan</hi> ſhould die, the people would <note place="margin">1 Sam. 14 39. Verſ. 44. and 45.</note> reſcue him, and ſaid, <hi>Jonathan</hi> ſhould not die; Much more would they have reſcued <hi>Saul</hi> againſt wicked Counſellors, that ſought his ruine? Our Parliament is not onely in danger, and with it, all that is ours; But the Perſon of our Soveraign Lord King <hi>Charles,</hi> by Jeſuites and Popiſh Traytors; who if they cannot poyſon His ſoul, will poyſon, ſtab, or deſtroy His body? We cannot think they will deal better with Him, then they did by <hi>Henry</hi> the third, and <hi>Henry</hi> the fourth of <hi>France,</hi> whom they ſlew; The one, becauſe he would not ſuffer them to ſway the Scepter, The other, becauſe he refuſed to break his Covenants with the Proteſtant Princes. If theſe men ſhould prevail in their Warre, <note place="margin">Theſe words are by the Arch B: minced and altered as may ap<g ref="char:EOLhyphen"/>pear by comparing the firſt Coppy with the late Editi<g ref="char:EOLhyphen"/>on.</note> and afterward be denyed any thing, what they will further deſire, for the eſtabliſhment of Popery, They will as treacherouſly end his dayes, whoſe Religion alows it, and commends us meritorious, to kill any King, that is a Proteſtant, or favourer of Proteſtants: Therefore we may in this ſee, how farre our Clergy is faln toward Popery, who now defend them, and moſt confide in them; who of late they declared to be Idolaters, Terming their Religion Rebellion, Their Faith Fact<g ref="char:EOLhyphen"/>on, And their practice the murdering of bodies and ſoules: God in mercy deliver His Majeſty from their doctrines, and treaſons.</p>
+            <p>Thirdly, Conſider the Perſons ingaged in this defenſive Warre, and
+<pb facs="tcp:111526:10"/> it will appear, That they are all His Majeſties beſt, and moſt faithfull Subiects; True Proteſtants; Yea, a Parliament; The Kings great (and known) Counſell; Able, Honeſt, and Godly Men, Not corrupted by flattery; nor miſled by the hopes of fleeting honour, But like <hi>Nehemiah</hi> and <hi>Ezra,</hi> ſtout in the Cauſe of God, hold the Sword in the one hand, whileſt they build the decayed W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lls of <hi>Jeruſalem,</hi> with the other: Men that fear God, and honour the King. Not Papiſts, Anabaptiſts, nor A<g ref="char:EOLhyphen"/>theiſts, as ſome falſly have called them; except any ſuch have diſguiſed, and treacherouſly intruded themſelves, to rob the Kingdom of their Money, and betray their Army to the enemy; and would be a moſt ac<g ref="char:EOLhyphen"/>ceptable ſervice, of any that could diſcover any ſuch: If any Browniſt <note place="margin">All of up<g ref="char:EOLhyphen"/>right in<g ref="char:EOLhyphen"/>tentions will ingage themſelves for their juſt rights, againſt Arbitrary Govern<g ref="char:EOLhyphen"/>ment, and the profeſt enemies of all Chri<g ref="char:EOLhyphen"/>ſtendom, the Papiſts.</note> be accepted in the Army (which is not by me denyed) they cannot be ſaid to have been incendiaries in the State; nor are they diſconſonant from us in any fundamentalls, onely they differ in Ceremonies; nor are their many of broken fortunes, nor deboyſt Dam-mys; Though ſome ſuch (too many) have intraded themſelves into the Army: (none en<g ref="char:EOLhyphen"/>gaged in the Warre, but) as Mercenaries; Such as love the warre for the pay, but pay nothing to the warre; and as backward to fight, as unwilling to be disbanded: Theſe by their fearfull Oaths diſhonour God, and cauſe the Land to mourn, and by deferring battle, and pro<g ref="char:EOLhyphen"/>ferring plunder; preiudice their iuſt Warre, As <hi>Achon</hi> did in the Army of Gods people. There was one <hi>Judas,</hi> amongſt Chriſts twelve Apo<g ref="char:EOLhyphen"/>ſtles, and one <hi>Achon</hi> in the Camp of God: I pray God to purge ſuch out of his, and Our Armies.</p>
+            <p>Now having informed you of the Kingdoms danger, and the Juſt<g ref="char:EOLhyphen"/>neſſe of the Kingdoms defenſive warre; For the Parliaments Army is the Kingdoms, for God, the King, and the Kingdom; The other is the Cavaliers Army, againſt God, the King, in future, (though hid by pre<g ref="char:EOLhyphen"/>ſent flatery;) and the Kingdom which they would deſtroy (as we by wofull experience ſee) whereever they come, or can prevail. Be there<g ref="char:EOLhyphen"/>fore exhorted, to be couragious in this Cauſe, for God, the King, and your Poſterity: Wiſemen forewarned, will be forearmed; If through our credulity to deceivers, we ſuffer our ſelves to be deſtroyed; Or if we believe our danger, and do nothing to prevent it, Our miſery will be the greater; And we moſt miſerable under it. Conſider what <hi>Mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dica</hi> in ſuch a caſe ſaid to <hi>Eſter,</hi> and the ſame I ſay to thee: If thou help not at this time, according to thy ability, place, and degree, <hi>Deliverance ſhall ariſe ſome other way, but thou ſhalt periſh.</hi> Deſtructive warre is now <note place="margin">Eſt 4. 14.</note> in the Land, Such a warre as is againſt God; Therefore ſit not ſtill, and ſay with thy ſelf, let others fight, give, pray, &amp;c. and think to be ſafe thy ſell, like <hi>Gilead, Dan,</hi> and <hi>Aſhe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> all reproved, But <hi>Zebulon</hi> and <note place="margin">Iudg 5</note>
+               <pb facs="tcp:111526:10"/> 
+               <hi>Nephtalie,</hi> are commended, who Jeoparded their lives in the fields againſt the enemy: In the mean time <hi>Meroz,</hi> a people able to help, and neer at hand; ſtood Newters: But <hi>Meroz</hi> is therefore curſed, and that bitterly, becauſe the Inhabitants came not out to the help of the Lord, and his people. Therefore all that are Gods people, or tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> look to have part in Chriſt, will now come forth, to the help of the Lord, againſt <hi>Baal:</hi> Halt not between two opinions; If thou be a Proteſtant, defend thy Religion, againſt them that ſay, they are Proteſtants, but are not: If thou be a Papiſt, why doeſt thou deſemble. Profeſſe to be what thou art, and be what thou profeſſeſt: A profeſt Papiſt is in a better condition, and more to be truſted, then a lukewarm Newter. There is but one God, one Truth, and one Faith, in which men can b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaved: The Parliament profeſſe that one God, Truth, and true Faith of Jeſus Chriſt; and that they, and all Gods Elect (except ſuch as are yet ignorant) do defend: The other Army ſay the like, (but 'tis to deceive us,) and ſay they take Arms to defend that which none oppoſe, but themſelves: They make proteſtation, and urge it upon men by force, wherein they call God to witneſſe, and ſo do we. But they have now brought the controverſie to a deſired Iſſue; for ſurely, The Judge of all the world will do right, and though he now afflict his people, and for a time ſuſpend ſentence, it will not be alwayes ſo. But he will ſhew wonders in the world, and declare to the eyes of men, who ſpeaks the Truth, and who deſemble: A conſiderateman may ſee the Parliaments reality, and the others diſſi<g ref="char:EOLhyphen"/>mulation, by the mercies of the one, even to their profeſſed enemies; and the barbarous cruelty of the other; not onely to us, but to their own friends, ſpoyling, and plundering all, one as well as another, wit<g ref="char:EOLhyphen"/>neſſe <hi>Banbury, Brainford, Reading, Newbury,</hi> and all Towns and places where by force, or fraud, they have entred; which the Parliament forces have not done, in any Town, or place, where they have entered, with the hazard of their lives. Thus men conſider not, Nor compare their barbarous cruelty to our men, their priſoners, whom they beat, wound, and ſtarve; with the good uſage their Cavaliers have, which are the Parliaments priſoners, who are allowed good lodging, fire, food, of all ſorts, Bear, Wine, and what not; They want nothing, but honeſty, and liberty to act more miſchief; but ours are denyed all things, but honeſty; which they cannot take from them: All this God beholds, whoſe eyes run too and fro, through the earth, beholding the good and bad; and will recompence all according to their doings: God is the righ<g ref="char:EOLhyphen"/>teous Judge of all men, he is unchangeable, his power is not weakned, his eye not ſhut, nor his ear heavy to hear his iuſtice, and his mercy is the ſame, as in former Ages; On him our eyes waite, to ſee his iudgements
+<pb facs="tcp:111526:11"/> upon out enemies; and his deliverance to his people. We know there <note place="margin">2 Theſ. 12 7. Reve. 13.</note> is a miſtery in the working of Antichriſt; and he a Monſter, having many heads, and horns: But we are ſure that Antichriſt ſhall fall, and it is probable that this is the time, and warre, in which <hi>England</hi> ſhall cut off one of thoſe heads. This Warre, is his warre, againſt Chriſt; And now Chriſt calls all that are his, to ſtand for him: If now you deny your help, you deny Chriſt; and therefore, give me leave to rememb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r you of Chriſts words, (ſpoken in this caſe to you) <hi>That if you deny him</hi> 
+               <note place="margin">Matth. 10. 33.</note> 
+               <hi>before men, he will deny you before his father:</hi> If you by Newtrality, think to ſave your lives, you will indanger to loſe your ſouls for ever. But if <note place="margin">Matth. 16. 25.</note> in this caſe, for Chriſt, and his Goſpels ſake, we looſe our lives, we ſhall ſurely ſave our ſouls, and procure a bleſſing to our poſterities: Every man is willing to enjoy the propriety of his Goods, &amp; his Liberty, and Peace, &amp;c. But are unwilling to be at any pains, or coſt to preſerve, or procure it. But contrary, many at this day are ſo extreamly ſtupid, and groſſely fordid, That they take more pains, run into greater dan<g ref="char:EOLhyphen"/>ger, and beſtow more coſt, to betray their Rights, and Liberties, &amp;c, Then is by the Parliament required of them, for their preſent and fu<g ref="char:EOLhyphen"/>ture ſecurity: The twenty part is the moſt they require, And that but lent? <note place="margin">Your charge for your wives <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evers, and Taffaty Gowas, and your own ex<g ref="char:EOLhyphen"/>pence in Taverns, would quickly re<g ref="char:EOLhyphen"/>cover that charge.</note> What may we think of ſuch men, But as men void of naturall affection, much more deſtitute, and empty of Religion, Love, or Cha<g ref="char:EOLhyphen"/>rity; who diſobey, or refuſe ſuch an order, ſeeing by lending a twenty part, the other ninteen, may be preſerved: which elſe, without order, or parts, thoſe Cavaliers will by force take altogether, and by it, ſtrengthen themſelves to continue a warre, to deſtroy our Laws, and poſterities: That which the Parliament requires of you, and me, is but to defend you and me, &amp;c. againſt their rage and rapine.</p>
+            <p>But you will ſay (and think you hit the nail on the head) that it is againſt Law.</p>
+            <p>
+               <hi>Anſw.</hi> If it be not againſt Law, to defend thy ſelf againſt violence, or to preſerve the Law it ſelf from violation, Then it is not againſt Law to contribute mony as a means.</p>
+            <p>But a man in caſe of neceſſity, in his juſt defence, may kill; Although the Law ſay he ſhall not kill; Much more a Parliament (who are pro<g ref="char:EOLhyphen"/>viders, maintainers, and beſt Judges of the Law) may by their Order lawfully; in caſe of neceſſity, to defend the Law, ceaſe the Subiect at their deſcretion: The whole Kingdom have truſted them with Religion, Laws, and Eſtates, which they are to maintain and defend, at the King<g ref="char:EOLhyphen"/>domes charge.</p>
+            <p>If the ſword, in oppoſition againſt the Law, will force, and deſtroy
+<pb facs="tcp:111526:11"/> the Ordinance of the Law, the ſword by the equality of the Law, may defend the Law.</p>
+            <p>But you will ſay, You deſire peace. <hi>Anſw.</hi> So do all good men; curſed be the man that deſires it not; ſo that it be ſuch a peace as hath aſſurance of truth joyned with it: But to deſire peace, or to accept a peace without truth, will prove a curſed bondage, a remedy worſe then the diſeaſe: Although War be a great puniſhment, and the effects miſerable, yet a juſt War is better then an unjuſt peace; a juſt War will eſtabliſh a true peace, but an unjuſt peace will prove a more de<g ref="char:EOLhyphen"/>ſtructive War: our peace with Idolaters, hath cauſed this War; but to have a peace with their Idols too, will be our preſent ruine: Can we expect any good and happy peace, ſo long as the whoredoms of <hi>Jezebel</hi> are ſo many: when Iſrael choſe <hi>new Gods, then War was in the</hi> 
+               <note place="margin">2 Kin. 19 22. Iudg 5. 8. Iudg. 2. 12, 13, 14</note> 
+               <hi>gates:</hi> when Iſrael followed the gods of the Nations, and worſhipped <hi>Baalim,</hi> God brought upon them the ſword of the Nations, and <hi>deli<g ref="char:EOLhyphen"/>vered them into the hands of the ſpoylers that ſpoyled them.</hi>
+            </p>
+            <p>But <hi>England</hi> hath followed the Idols of the Papiſts, and worſhipped <hi>Baalim;</hi> therefore God hath brought upon <hi>England</hi> the ſword of the Papiſts, and may moſt juſtly deliver us up into their hands to be ſpoyl<g ref="char:EOLhyphen"/>ed and ruined.</p>
+            <p>Eighteen yeers ago, the Lord delivered them into our hands (as his, and our enemies) to be deſtroyed for their Idolatry, or at leaſt to be ba<g ref="char:EOLhyphen"/>niſhed for their Treaſon, but we ſpared and cheriſhed them, to be as thorns in our ſides, and their gods to be a ſnare unto us: We have ſpared them as <hi>Benhadad</hi> was ſpared by mercifull (though wicked) <hi>Acbab;</hi> and <note place="margin">1 Kin. 20. 42. 1 Kin. 22 37.</note> as God puniſhed <hi>Acbab</hi> and his people, by the hand of <hi>Benhadad</hi> and his people, ſo is the King and the people of <hi>England</hi> puniſh<g ref="char:EOLhyphen"/>ed at this day by the hands and plots of bloody Jeſuites and Papiſts:</p>
+            <p>Their deſigne is great upon our King, upon us, and upon all his Ma<g ref="char:EOLhyphen"/>jeſties Kingdoms, God rebuke them, and deliver us: And that we may not fail of deliverance (in due time) let us all, of all ſorts, ſexes, and conditions, ſeek the Lord by hearty humiliation, and reſolved Reforma<g ref="char:EOLhyphen"/>tion; and in the firſt place, with zeal and deteſtation, ſet our ſelves a<g ref="char:EOLhyphen"/>gainſt that ſin of Idolatry, as <hi>Phineba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> did againſt <hi>Zimri</hi> and <hi>Cozbi,</hi> that <note place="margin">Numb. 25 11.</note> ſo we may appeaſe Gods anger; if we with all our hearts ſeek truth, it will bring us to true peace with God and men.</p>
+            <p>We have ſought to the Parliament for Peace; but they cannot give it us: We have ſought by humble Petition to the King for Peace; and that procured our further prejudice: For while we ſought for the peace of the whole Kingdom, we received (from ſome of that malignant bloo<g ref="char:EOLhyphen"/>dy Counſell) an Anſwer altogether contrary to our expectation; and
+<pb facs="tcp:111526:12"/> after it a Letter to the former effect: both tending to ſtirre up Warre (where yet by Gods mercy none is) in the great and pupulous City <hi>(London)</hi> That becauſe they cannot deſtroy us themſelves, they would ſet us to deſtroy one another (which God forbid.) We know that while we hold the band of Unity, we are able (by Gods aſſiſtance) to defend our ſelves: But if we be once divided, we lay our ſelves open to every adverſary without reſiſtance, to be devoured. We will be warned by <hi>Jeruſalems</hi> miſery (that once famous City of the world) by <note place="margin">
+                  <hi>See</hi> loſe<g ref="char:EOLhyphen"/>phus <hi>in War</hi> Ieruſ.</note> ſuch ſedition brought to be a heap of ſtones: And by the experiences of the bloody cruelties, and mercileſſe plundrings of all thoſe Towns that have, or do (by ſuch diviſion) give them entrance. <hi>Banbury</hi> had as much ſecuring as King could give them, and yet plundred; and the man (M. <hi>Vivors</hi> by name) who was the chiefeſt agent to bring them in, was moſt plundered. But we will honour our King, and hazard our lives and fortunes for His Perſon, Poſterity, and Parliament, to reſcue them from the bloody hands of that malignant Counſell, and Army of Cava<g ref="char:EOLhyphen"/>liers; and will aſſure His Majeſty of ſafety and ſecurity in this City, if His Majeſty will be pleaſed to come to His Parliament, and to us peace<g ref="char:EOLhyphen"/>ably, as our King; and to the Parliament, as his great and faithfull <note place="margin">
+                  <hi>Many Pro<g ref="char:EOLhyphen"/>cters, Pre<g ref="char:EOLhyphen"/>bends, &amp;c. and merci<g ref="char:EOLhyphen"/>nary trades men, for profits and favour, care nei<g ref="char:EOLhyphen"/>ther for the welfare of King nor King<g ref="char:EOLhyphen"/>dom. If we loſe this Parli<g ref="char:EOLhyphen"/>ament, we muſt ex<g ref="char:EOLhyphen"/>pect to have grea<g ref="char:EOLhyphen"/>ter, with<g ref="char:EOLhyphen"/>out all re<g ref="char:EOLhyphen"/>medy.</hi> Exo. 7. 11 Exod. 14. 10, 11. Icr. 5. 25.</note> Councell, and beſides them we know no other; though ſome who ſeek honour from the King, rather then honour to the King, divide between his Majeſty and them.</p>
+            <p>We cannot forget how much we all groaned under the burdens of oppreſſions late layed upon us by the hard task-maſters that were ſet over us; and then we all cryed fot a Parliament to eaſe us: Our Bon<g ref="char:EOLhyphen"/>dage had ſome reſemblance to that of the people of <hi>Iſrael</hi> in <hi>Aegypt</hi> (and ſo hath our ingratitude) For whilſt their deliverance was work<g ref="char:EOLhyphen"/>ing, their burdens grew greater, and then they murmured; and ſo have ſome of us: They cryed for deliverance, and God heard their cry; we cryed for a Parliament, and God graciouſly, yea miraculouſly gave us a Parliament. But becauſe malignant Counſellors, as the Magicians of <hi>Aegypt,</hi> have hindered our preſent deliverance, we murmure againſt the Parliament, as they againſt <hi>Moſes</hi> and <hi>Aaron;</hi> God led them thorow the Wilderneſſe to prove them, and they ſaid, They <hi>bad rather have died in Aegypt, &amp;c.</hi> Thus God proves us by ſome oppoſition: and ſome ſay, It was better with us, when we endured our former oppreſſions; but con<g ref="char:EOLhyphen"/>ſider not that our ſins have provoked God, and therefore he ſuffers our King to be miſled, for a great puniſhment to us; nor underſtand that our impenitency hinders good things from us, and ſtop the Parliaments proceedings. We are a fooliſh and ſinfull people, that love our ſins,
+<pb facs="tcp:111526:12"/> and loſe our Liberty; we prefer the twentieth part of our money, be<g ref="char:EOLhyphen"/>fore our Religion, as the <hi>Gadarens</hi> their ſwine before Chriſt: But let us not tempt God, as the Iſraelites did; nor with the multitude of Atheiſt<g ref="char:EOLhyphen"/>icall Libertines, revile our <hi>Moſes</hi> and <hi>Aarons,</hi> much leſſe give aſſiſtance to deſtroy them and our ſelves, left we be found to fight againſt God. We know what became of thoſe wicked men that eaſt an evill report upon the Land of Promiſe, and diſcouraged the people, ſaying, Mighty men were in the Land, that could not be overcome: But thus ſome do, by reproachfull ſpeeches, and ſpreading venomous Pamphlets, and ly<g ref="char:EOLhyphen"/>ing Fictions, to the diſhonour of this chrice honourable Parliament, as if the Parliament had brought theſe things to this paſſe, to make us die by the ſword, and our children to be a prey, &amp;c. Thus the Iſra<g ref="char:EOLhyphen"/>elites murmured, and were deſtroyed by the Plague, before the Lord, <note place="margin">Numb. 14. 37.</note> and all their Carkaſſes fell in the Wilderneſſe, but their children, whom they ſaid ſhould be a prey to their enemies (together with <hi>Caleb</hi> and <note place="margin">Verſ. 30. 31.</note> 
+               <hi>Joſhuab,</hi> who ſpake well of the Land) enjoyed the promiſed bleſſing, when all elſe were cut off.</p>
+            <p>And we need not doubt (if once thoſe <hi>Achans</hi> that are in our Armies <note place="margin">Thoſe Dam, my ſovear<g ref="char:EOLhyphen"/>ers, and theeviſh plunderers.</note> were caſt out) but God will do the like for our <hi>Calebs</hi> and <hi>Joſhuab's,</hi> and all the reſt of his people, that couragiouſly oppoſe the wickedneſſe and Idolatry of theſe times, and unfainedly ſeek unto God by faſting and prayer, as <hi>Eſther</hi> did, in whoſe time the people of God were ſold to be deſtroyed, under <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſuerus,</hi> as we are at this day: they by the counſell of wicked <hi>Haman;</hi> we by the wicked counſell of Jeſuites, Pa<g ref="char:EOLhyphen"/>piſts, &amp;c. They by the Kings miſled Authority againſt the Queen and her people; we by the King miſled in his Authority, by his Queen, and her people.</p>
+            <p>
+               <hi>Abaſuerus</hi> was guided by his Counſell (and ſo are all Kings) he look<g ref="char:EOLhyphen"/>ed <note place="margin">
+                  <hi>wicked Counſellors, under pre<g ref="char:EOLhyphen"/>tence of good ſervice to Kings, de<g ref="char:EOLhyphen"/>ſtroy Kings, and whole Kingdoms.</hi> Eſth. 7. 4. Eſth. 3 6. Verſ. 8.</note> upon the Counſell (in the pretence) as profitable, but conſidered not ſo far as the end and intent of <hi>Haman,</hi> which was deſtructive: Surely there was no thought in <hi>Abaſuecus</hi> to deſtroy <hi>Eſther</hi> nor her people; but <hi>Haman</hi> intended both; he thought it not revenge to deſtroy part, but all the people of the Jews (as they do this day in <hi>Ireland,</hi> and are about to do in <hi>England)</hi> He craftily accuſeth them under a generall Notion, and tells the King, There was <hi>a certain People ſcattered and diſ<g ref="char:EOLhyphen"/>perſed amongſt his people, and their Laws divers from all people, neither keep t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey the Kings Lawes, therefore not for the Kings profit to ſuffer them:</hi> And to put the fairer gloſſe upon the obſcured Treaſon, he offers to <hi>give unto the Kings Treaſure ten thouſand Talents of Silver.</hi> Thus are we (all that are true Proteſtants) accuſed to the King, under the name Round heads, having Laws and opinions divers from other people, nor
+<pb facs="tcp:111526:13"/> keep the Kings Laws, &amp;c. when indeed, and in truth, we are the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> obſervers and keepers of the Kings Laws, and have no Laws divers from any, but Idolaters, and prophane riotous perſons, who therefore (as the Apoſtle Saint <hi>Peter</hi> ſaith) ſpeak evill of us, becauſe we refuſe to <note place="margin">1 Pet. 4 4 <hi>By the name Round<g ref="char:EOLhyphen"/>head, they do not only meane Browniſts and Ana<g ref="char:EOLhyphen"/>baptiſts, but all that are godly men, and good Proteſtants</hi> Eſth 8. 11 <hi>The many peeces of Gods pro<g ref="char:EOLhyphen"/>vidence working for our de<g ref="char:EOLhyphen"/>liverance, ſhould ſtrengthen our faith in all fu<g ref="char:EOLhyphen"/>ture dan<g ref="char:EOLhyphen"/>gers.</hi>
+               </note> partake with them: For this name Round-head, is new ſprung from hell; and all thoſe are ſo called, who refuſe any of theſe particulars: <hi>(viz.)</hi> To drink drunk, To whore, To ſwear God-dam-my, To ſcorn at purity, To take Arms (or contribute) againſt the Parliament, To a<g ref="char:EOLhyphen"/>buſe, cut, or kill the Miniſters of Chriſt, and other his Members, or in a word, He that doth not profeſſe and do all things that theſe curſed Ca<g ref="char:EOLhyphen"/>valiers do, is a Round-head: againſt theſe (by the counſell of Jeſuires and Papiſts) is paſt the Edict of deſtruction: by which we had periſh<g ref="char:EOLhyphen"/>ed, had not the over-ruling, and ever-working providence of God cau<g ref="char:EOLhyphen"/>ſed a contrary Decree (by a better Counſell) enabling us to ſtand in the defence of our lives, as the Jews did in <hi>Shuſhan,</hi> and all the Provinces of the King, which is a pledge unto us of our future deliverance: for where God giveth the means, he intendeth the end; and they that now refuſe to uſe the means, are guilty of their own blood, and of the Trea<g ref="char:EOLhyphen"/>ſon intended againſt the King and his Kingdoms. God in mercy open the Kings eyes, that he may ſee the Treaſon and bloody deſigns of thoſe Counſellors, and bring his Majeſty again to conſult with his Parliament, his great &amp; faithfull Counſell, and beſides which we know (at this time) no other. We know wiſe Kings have been miſled, as <hi>Solomon,</hi> the wiſeſt: holy Kings have erred, as <hi>David</hi> the holieſt; the one by the ſeducement of out-landiſh wives, the other by ſome remiſſeneſſe in his duty: But God opened the eyes of <hi>Solomon,</hi> and ſhewed <hi>David</hi> his fin. But <hi>Rehobo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> was miſled by the counſell of his young Counſellors, and repented not, therefore was puniſhed without repair: And <hi>Achab</hi> miſled by the flatte<g ref="char:EOLhyphen"/>ries of 400 Court falſe Prophets, was ſlain at <hi>Ramoth-Gilead,</hi> in a Bas<g ref="char:EOLhyphen"/>tell which they would have him undertake, contrary to that good Pro<g ref="char:EOLhyphen"/>phet (though hated) <hi>Micaia.</hi>
+            </p>
+            <p>Now my prayer is, and ever ſhall be, to the great and Almighty <hi>Jebovab,</hi> (King of all King:) for my gratious Soveraign, King <hi>Charles:</hi> That God will ſhew him the errour of all his Malignant Counſellors, and as holy <hi>David,</hi> turn wholly to God by repentance. That ſo he, his, and their Poſterities, may, to Gods glory, wear the Crowns of all his three Kingdoms, and defend the truely Chriſtian and Apoſtolike Faith, againſt Popery, and all Superſtition, untill the end of all time: And receive the Crown of glory, for his, and their reward, when time ſhall be no more: In the mean time, Let all true Proteſtants pray for the peace of <hi>Jeruſalem,</hi> And for the proſperity of her, and of her King, and People.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
